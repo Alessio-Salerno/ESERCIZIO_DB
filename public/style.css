@@ -1,0 +1,31 @@
+.title{
+    color: blue;
+}
+
+
+.bg-background{
+   background-image: url('https://www.hwupgrade.it/immagini/w11_2005_sfondodefault.jpg'); 
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+   min-height: 100vh;
+}
+
+
+
+body{
+   background-color: #e2e3e5; 
+}
+
+/* Sezione Dipendenti */
+.userHeight{
+   height: 70vh;
+}
+
+
+.header {
+   height: 100vh; /* L'header occuperà l'intera altezza della finestra */
+ }
+
+
